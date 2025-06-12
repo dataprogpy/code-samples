@@ -8,6 +8,7 @@ _Alternatively clone the complete repo and do a git pull to check for updates_
 - [orders.csv](orders.csv)
 ## Data Storytelling Workflow
 - [kc_house_data.csv](kc_house_data.csv)
+
 _Please make sure to extract and place all contents of the zip archive file in your workspace._
 _Your code may point only the `*.shp` shape file. However, your code will not work without all the contents loaded onto your workspace._
 - [kingcounty.zip](kingcounty.zip)
