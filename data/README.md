@@ -13,3 +13,6 @@ _Please make sure to extract and place all contents of the zip archive file in y
 _Your code may point only the `*.shp` shape file. However, your code will not work without all the contents loaded onto your workspace._
 - [kingcounty.zip](kingcounty.zip)
 - [School_Districts_in_King_County___schdst_area.zip](School_Districts_in_King_County___schdst_area.zip) 
+
+## Introduction to Text Data Analysis
+- [global-cart.csv](global-cart.csv)
